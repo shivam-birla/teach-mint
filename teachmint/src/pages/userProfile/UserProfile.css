@@ -38,6 +38,7 @@
     text-align: center;
     color: antiquewhite;
     background-color: blueviolet;
+    cursor: pointer;
 }
 
 
@@ -89,5 +90,9 @@
     .post {
         width: 100%;
 
+    }
+
+    .user-details {
+        flex-direction: column;
     }
 }
