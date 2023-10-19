@@ -1,0 +1,8 @@
+.country-dropdown {
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    padding: 25px;
+    background: #333;
+    color: aliceblue;
+}
